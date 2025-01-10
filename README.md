@@ -1,6 +1,5 @@
 # HTML vaje pri predmetu TKS
 ## **Uporaba za ocenjevanje ni dovoljena!**
-____________
 
 ### Naloge
 NAREJENO|NALOGA|LOKACIJA DATOTEK
